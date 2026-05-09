@@ -174,7 +174,7 @@ Phase 8: Generate Response  → Final RAG Prompt + Groq (Llama 3.3 70B Versatile
 
 ### Architecture Diagram
 
-![Modular RAG Pipeline](Modular%20RAG%20using%20Langflow/Modular_RAG-Langflow.png)
+![Modular RAG Architecture](modular_rag_architecture.png)
 
 ### Smart Router Logic
 
